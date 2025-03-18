@@ -9,7 +9,7 @@ If you use our code please cite the corresponding paper:
 @article{
 DePalma2025,
 title={On Using Certified Training towards Empirical Robustness},
-author={Alessandro De Palma and Serge Durand and Zakaria Chihani and François Terrier and Caterina Urban},
+author={De Palma, Alessandro and Durand, Serge and Chihani, Zakaria and Terrier, François and Urban, Caterina},
 journal={Transactions on Machine Learning Research},
 year={2025},
 url={https://openreview.net/forum?id=UaaT2fI9DC},
